@@ -1,0 +1,4 @@
+1) pip install pywin32
+2) pip install pypiwin32
+3) pip install pyttsx3
+4) pip install SpeechRecognition
